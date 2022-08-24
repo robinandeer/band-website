@@ -1,0 +1,22 @@
+{
+  "name": "band-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "light-server --serve public --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinandeer/band-website.git"
+  },
+  "author": "Robin Andeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinandeer/band-website/issues"
+  },
+  "homepage": "https://github.com/robinandeer/band-website#readme",
+  "devDependencies": {
+    "light-server": "^2.9.1"
+  }
+}
